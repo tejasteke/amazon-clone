@@ -18,7 +18,7 @@ function renderProducts(products) {
       <img src="${p.image}" alt="${p.title}" />
       <div class="product-info">
         <h3 class="product-title">${p.title}</h3>
-        <p class="product-price">$${p.price.toFixed(2)}</p>
+        <p class="product-price">₹${p.price.toLocaleString('en-IN')}</p>
         <button class="add-to-cart" data-id="${p.id}">Add to Cart</button>
       </div>
     `;

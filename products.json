@@ -2,57 +2,57 @@
   "products": [
     {
       "id": 1,
-      "title": "Wireless Mouse",
-      "price": 19.99,
+      "title": "Budget Smart TV",
+      "price": 14999,
       "image": "img1.jpg",
       "rating": 4
     },
     {
       "id": 2,
-      "title": "Bluetooth Headphones",
-      "price": 49.99,
+      "title": "4K Ultra HD TV",
+      "price": 34999,
       "image": "img2.jpg",
       "rating": 5
     },
     {
       "id": 3,
-      "title": "Smart LED Lamp",
-      "price": 29.99,
+      "title": "Home Lighting Solution",
+      "price": 1299,
       "image": "img3.jpg",
       "rating": 4
     },
     {
       "id": 4,
-      "title": "Portable Charger 10000mAh",
-      "price": 39.99,
+      "title": "Premium Cushion Covers",
+      "price": 599,
       "image": "img4.jpg",
       "rating": 4
     },
     {
       "id": 5,
-      "title": "Stainless Steel Water Bottle",
-      "price": 15.99,
+      "title": "Decorative Figurines",
+      "price": 899,
       "image": "img5.jpg",
       "rating": 5
     },
     {
       "id": 6,
-      "title": "Noise Cancelling Earbuds",
-      "price": 59.99,
+      "title": "Home Storage Box",
+      "price": 499,
       "image": "img6.jpg",
       "rating": 3
     },
     {
       "id": 7,
-      "title": "4K Action Camera",
-      "price": 89.99,
+      "title": "Men's Casual Shirt",
+      "price": 799,
       "image": "img7.jpg",
       "rating": 4
     },
     {
       "id": 8,
-      "title": "Gaming Keyboard",
-      "price": 79.99,
+      "title": "Men's Formal Shoes",
+      "price": 1499,
       "image": "img8.jpg",
       "rating": 5
     }
