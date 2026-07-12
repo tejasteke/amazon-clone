@@ -44,15 +44,15 @@
     },
     {
       "id": 7,
-      "title": "Men's Casual Shirt",
-      "price": 799,
+      "title": "Crystal Wall Lamp",
+      "price": 1999,
       "image": "img7.jpg",
       "rating": 4
     },
     {
       "id": 8,
-      "title": "Men's Formal Shoes",
-      "price": 1499,
+      "title": "Men's Casual Shirt",
+      "price": 799,
       "image": "img8.jpg",
       "rating": 5
     }
